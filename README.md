@@ -4,5 +4,5 @@ This project shows a complete end to end ci/ cd pipeline
 
 ### Branches
 
-- Release branch
+- Release branch 1
 
