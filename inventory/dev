@@ -1,1 +1,15 @@
+[localhost]
 172.31.22.185 ansible_ssh_connection=local
+
+[lb]
+172.31.34.82 ansible_ssh_user='ubuntu'
+
+[nfs]	
+172.31.46.61 ansible_ssh_user='ec2-user'
+
+[db]
+172.31.44.13 ansible_ssh_user='ec2-user'
+
+[webservers]
+172.31.40.219 ansible_ssh_user='ec2-user'
+172.31.44.175 ansible_ssh_user='ec2-user'
