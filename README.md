@@ -6,3 +6,9 @@ This project shows a complete end to end ci/ cd pipeline
 
 - Release branch 1
 
+
+### Jenkins Plugins
+
+- copy artifacts
+- crumb issuer
+
